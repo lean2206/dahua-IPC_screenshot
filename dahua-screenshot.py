@@ -10,7 +10,7 @@ screenshots_path = "C:\\Users\\" + system_user + "\\screenshots\\"
 
 mkdir(screenshots_path)
 
-ip_dicc = {"baños-llenado":"172.30.3.31", "rampa-carga":"172.30.3.56", "llenado-hacia-dentro":"172.30.3.52"}
+ip_dicc = {"camara_1":"172.30.3.31", "camara_2":"172.30.3.56", "camara_3":"172.30.3.52"}
 
 
 for name, ip in ip_dicc.items(): 
