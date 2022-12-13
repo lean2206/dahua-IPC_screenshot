@@ -1,3 +1,3 @@
 # dahua-IPC_screenshot
 
-Script to screenshot dahua cameras through https requests
+Script to screenshot dahua cameras through http requests
